@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN, JAVASCRIPT and PYTHON**
 
-- 👨‍💻 All of my projects are available at [https://mhkaaniche.github.io/Memory_Game/](https://mhkaaniche.github.io/Memory_Game/)
+- 👨‍💻 Memory Game is available at [https://mhkaaniche.github.io/Memory_Game/](https://mhkaaniche.github.io/Memory_Game/)
 
 - 📫 How to reach me **mhkaaniche@gmail.com**
 
